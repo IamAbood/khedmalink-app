@@ -1,0 +1,56 @@
+name: khedma_link
+description: "A new Flutter project."
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.0.0 <4.0.0"  # Updated SDK constraint
+
+dependencies:
+  flutter:
+    sdk: flutter
+  carousel_slider: ^5.0.0
+  get: ^4.6.5  # Properly indented and updated version
+  cupertino_icons: ^1.0.8
+  iconsax: ^0.0.8
+  readmore: ^3.0.0
+  provider: ^6.1.5
+  flutter_rating_bar: ^4.0.1
+  url_launcher: ^6.3.1
+  image_picker: ^1.1.2
+  
+
+ 
+  
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+
+flutter:
+  uses-material-design: true
+  
+  assets:
+    - assets/images/avatar.jpg
+    - assets/images/khedmaLink.png
+    - assets/images/Kl.png
+    - assets/images/top_left.png
+    - assets/images/top_main.png
+    - assets/images/login_bottom.png
+    - assets/images/bottom_main.png
+    - assets/images/facebook.png
+    - assets/images/google.png
+    - assets/images/Ui_Ux.avif
+    - assets/images/Ui_ux.png
+    - assets/banner/find_your_team.jpg
+    - assets/banner/Start an online business.webp
+    - assets/banner/become_freelancer.jpg
+    - assets/banner/greenHouse.jpeg
+    - assets/banner/jobsearch.png
+    - assets/images/freelancer.png
+    - assets/images/rec.png
+    
+   
+

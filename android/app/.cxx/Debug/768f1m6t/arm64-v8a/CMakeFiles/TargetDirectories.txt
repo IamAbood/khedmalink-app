@@ -1,0 +1,2 @@
+D:/todo/khedma_link/android/app/.cxx/Debug/768f1m6t/arm64-v8a/CMakeFiles/edit_cache.dir
+D:/todo/khedma_link/android/app/.cxx/Debug/768f1m6t/arm64-v8a/CMakeFiles/rebuild_cache.dir
